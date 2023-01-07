@@ -1,0 +1,39 @@
+body{
+    background-color:aqua;
+}
+a{
+    background-color: rgb(207, 207, 226);
+}
+h1{
+    color:rgb(158, 226, 11);
+    background-color: rgb(72, 9, 218);
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+img{
+    float:center;
+}
+video{
+    float:center;
+}
+audio{
+    background-color:pink;
+}
+ol{
+    background-color:rgb(44, 183, 183);
+}
+ul{
+    background-color:blueviolet;
+}
+dl{
+    background-color: chartreuse;
+}
+marquee{
+    background-color:deepskyblue;
+}
+table{
+    background-color:lawngreen;
+    text-align: center;
+    float:right;
+    
+}
